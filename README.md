@@ -1,5 +1,5 @@
 
-👨🏻‍💻 Developper Fullstack : Java, Javascript, GCP Cloud
+👨🏻‍💻 Developper Fullstack : Java, Javascript, GCP Cloud, React, Angular, Flutter
 
 <!--
 **patou/patou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
